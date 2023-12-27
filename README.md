@@ -1,7 +1,7 @@
 # DesignPatterns
 Unlock the power of design patterns! Dive into a curated collection of clear, beginner-friendly code examples covering a spectrum of design patterns, and code refactoring. Contribute, learn, and elevate your coding skills. 🚀 Happy coding! 
 
-## Used IDE
+## IDE Used
 ```java
 Eclipse IDE for Java Developers (includes Incubating components)
 
